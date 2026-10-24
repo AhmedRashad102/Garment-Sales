@@ -107,6 +107,3 @@ The analysis addresses four major risk categories:
 - **Delivery Risks:** Low on-time delivery performance and increasing average delays.
 - **Commercial Risks:** Declining FOB values and potential pricing pressure.
 
-Business Intelligence & Data Analytics
-
-Power BI | Excel | SQL | Tableau | SSIS | SSAS | SSRS
